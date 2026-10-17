@@ -1,0 +1,1 @@
+import{n as e,t}from"./directive-gTe1TQRu.js";var n={install(n){e._context=n._context,t._context=n._context,n.directive(`loading`,t),n.config.globalProperties.$loading=e},directive:t,service:e};export{n as t};

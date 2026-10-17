@@ -1,0 +1,1 @@
+import{i as e}from"./browser-Bo7DTpGQ.js";var t=e({downloadBlob:()=>n,downloadJSON:()=>r});function n(e,t,n){let r=URL.createObjectURL(e),i=document.createElement(`a`);i.href=r,i.download=t,n?.target&&(i.target=n.target),i.click(),URL.revokeObjectURL(r)}function r(e,t){let r=JSON.stringify(e,null,2);n(new Blob([r],{type:`application/json`}),t)}export{r as n,t as r,n as t};

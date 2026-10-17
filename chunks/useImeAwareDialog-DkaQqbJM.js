@@ -1,0 +1,1 @@
+import{nn as e}from"./i18next-08VuT6L9.js";import{p as t}from"./dist-M6D5KsZE.js";function n(){let n=e(!1);return t(document,`compositionstart`,()=>{n.value=!0}),t(document,`compositionend`,()=>{n.value=!1}),{isComposing:n}}export{n as t};

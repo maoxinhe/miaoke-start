@@ -1,0 +1,1 @@
+var e={title:`Bağlantı Ekle`,addToQuickLinks:`Ekle`,addSuccess:`Hızlı Bağlantılara eklendi`,alreadyExists:`Bu sayfa zaten Hızlı Bağlantılarda mevcut`,cannotAdd:`Bu sayfa eklenemiyor`};export{e as default};

@@ -1,0 +1,1 @@
+import{n as e}from"./i18next-08VuT6L9.js";import{i as t}from"./i18n-zGyb6THU.js";var n=e.defineItem(`local:blockedTopStites`,{fallback:[]}),r=t(n);export{r as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./i18next-08VuT6L9.js";import{i as t}from"./i18n-zGyb6THU.js";var n={items:[]},r=e.defineItem(`local:customSearchEngine`,{fallback:structuredClone(n)}),i=t(r);export{n,i as t};

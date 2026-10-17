@@ -1,0 +1,1 @@
+var e={title:`添加链接`,addToQuickLinks:`添加`,addSuccess:`已添加到快速导航`,alreadyExists:`该页面已在快速导航中`,cannotAdd:`无法添加此页面`};export{e as default};

@@ -1,0 +1,1 @@
+var e={title:`Add Link`,addToQuickLinks:`Add`,addSuccess:`Added to Quick Links`,alreadyExists:`This page is already in Quick Links`,cannotAdd:`Cannot add this page`};export{e as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./dist-M6D5KsZE.js";var t=e(`(hover: none) and (pointer: coarse)`),n=e(`(any-pointer: coarse)`);function r(e){return window.PointerEvent&&e instanceof PointerEvent?e.pointerType===`touch`:`touches`in e&&e.touches.length>0}export{t as n,r,n as t};
